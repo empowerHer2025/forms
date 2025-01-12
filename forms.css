@@ -1,0 +1,9 @@
+form {
+    background-color: grey;
+    color: hotpink;
+    text-align: center;
+    float: inline-start ;
+    width: 30%;
+    padding: 10px;
+    margin-left: 10px;
+}
